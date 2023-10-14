@@ -1,0 +1,51 @@
+
+.caixa {
+    justify-content: space-around;
+}
+
+.div1 {
+    background-color: #7b838c;
+    width: 500px;
+    height: 150px;
+    margin: 10px;
+}
+
+.div2{
+    background-color: #137495;
+    width: 500px;
+    height: 150px;
+    margin: 10px;
+}
+
+.div3 {
+    background-color: #d9bf8f;
+    width: 500px;
+    height: 150px;
+    margin: 10px;
+}
+
+.div4 {
+    background-color: #bc704f;
+    width: 500px;
+    height: 150px;
+    margin: 10px;
+}
+
+.div5 {
+    background-color: #2d531c;
+    width: 500px;
+    height: 150px;
+    margin: 10px;
+}
+
+header {
+    background-color: #8f959b;
+    margin: 0;
+    height: 70px;
+    text-align: left;
+}
+
+body {
+    background-color: #f7eede;
+    margin: 0;
+}

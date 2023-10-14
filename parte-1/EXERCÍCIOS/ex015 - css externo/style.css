@@ -1,0 +1,26 @@
+body {
+    background-color: lightgoldenrodyellow;
+    color: chocolate;
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+h1 {
+    color: brown;
+    background-color: #daa520;
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+h2 {
+    color: brown;
+}
+
+p {
+    color: black;
+}
+
+#link-direita {
+    display: block;
+    text-align: right;
+}
